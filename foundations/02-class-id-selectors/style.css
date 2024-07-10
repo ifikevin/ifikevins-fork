@@ -1,6 +1,6 @@
 .Odd {
     background-color: rgb(255, 153, 153);
-    font: Verdana, "Dejavu Sans", sans-serif;
+    font-family: Verdana, "Dejavu Sans", sans-serif;
 }
 
 #element-2 {
