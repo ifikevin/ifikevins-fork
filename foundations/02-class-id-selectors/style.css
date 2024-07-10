@@ -1,0 +1,17 @@
+.Odd-number {
+    background-color: rgb(255, 153, 153);
+    font: Verdana, "Dejavu Sans", sans-serif;
+}
+
+#element-2 {
+    color: hsl(240, 100%, 55%);
+    font-size: 36px;
+}
+
+.class-2 {
+    font-size: 24px;
+}
+
+#element-4 {
+    font-weight: 700;
+}
